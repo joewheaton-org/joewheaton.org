@@ -4,9 +4,9 @@
 
 ### People
 
-I have had the privilege of working with some outstanding colleagues, collaborators and students over the years. Here I only attempt to list *some* of those I've collaborated most closely or directly with on specific [projects](http://www.joewheaton.org/Home/research/projects-1) (i.e. forgive me for omissions...).
+I have had the privilege of working with some outstanding colleagues, collaborators and students over the years. Here I only attempt to list *some* of those I've collaborated most closely or directly with on specific [projects]({{ site.baseurl }}/research/projects-1) (i.e. forgive me for omissions...).
 
-Alternatively, see specific [project pages](http://www.joewheaton.org/Home/research/projects-1) and [study sites](http://www.joewheaton.org/Home/research/study-sites) for list of collaborators by project, [graduate student](http://www.joewheaton.org/Home/students-teaching/graduate-students) pages for list of current students, and [et al. Lab](http://etal.joewheaton.org/) for lab members. ![93393pw150]({{ site.baseurl }}/assets/images/93393pw150.jpg)
+Alternatively, see specific [project pages]({{ site.baseurl }}/research/projects-1) and [study sites]({{ site.baseurl }}/research/study-sites) for list of collaborators by project, [graduate student](http://www.joewheaton.org/Home/students-teaching/graduate-students) pages for list of current students, and [et al. Lab](http://etal.joewheaton.org/) for lab members. ![93393pw150]({{ site.baseurl }}/assets/images/93393pw150.jpg)
 
 | Salutation | First Name | Last Name  | Title                                    | Relationship                        | Web Page                                 | Primary Project                          | Affiliation                              |
 | ---------- | ---------- | ---------- | ---------------------------------------- | ----------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
