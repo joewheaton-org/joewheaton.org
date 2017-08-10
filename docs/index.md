@@ -18,4 +18,5 @@ Joe
 
 * [Projects]({{ site.baseurl }}/research/projects-1)
 * [Publications]({{ site.baseurl }}/research/publications)
-
+* [People]({{ site.baseurl }}/people)
+* ​
