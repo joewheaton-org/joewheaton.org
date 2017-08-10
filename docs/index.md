@@ -17,4 +17,5 @@ Joe
 [**Research**]({{ site.baseurl }}/Research1)
 
 * [Projects]({{ site.baseurl }}/research/projects-1)
+* [Publications]({{ site.baseurl }}/research/publications)
 
