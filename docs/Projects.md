@@ -17,20 +17,18 @@ Below is a partial list of research projects I was involved in prior to arriving
 
 ### Research Projects Prior to USU:
 
-| Project Name | Status | Year Started | Year Completed | My Involvement | Funding? |
-| ------------ | ------ | ------------ | -------------- | -------------- | -------- |
-|              |        |              |                |                |          |
+| Project Name                             | Status        | Year Started | Year Completed | My Involvement          | Funding?                               |
+| ---------------------------------------- | ------------- | ------------ | -------------- | ----------------------- | -------------------------------------- |
+| Extending GCD Software                   | Active        | 2009         | On Going       | P.I.                    | ICRRR, USGS (GCMRC)                    |
+| MORPHED                                  | Active        | 2004         | On Going       | P.I.                    | NSF                                    |
+| Morphological Sediment Budgeting         | Active        | 2003         | 2008           | PhD                     | Southampton University, CEH, AGU, ORS  |
+| Comparison of Traditional Versus Ground-based LiDaR In-stream Habitat Assessments | Completed     | 2009         | 2010           | P.I.                    | USFS                                   |
+| Green LiDaR DEM Uncertainty              | Inactive      | 2008         | On Going       | Collaborator (Unfunded) | Eco Logical Research, NOAA, & Unfunded |
+| ReesScan: Hyperscale Modeling of the River Rees | Past Projects | 2009         | 2012           | Collaborator (Unfunded) | NERC                                   |
+| Water Resources in a Changing Climate    | Past Projects | 2008         | 2009           | Collaborator (Unfunded) | NSF                                    |
+| Uncertainties in River Restoration       | Past Projects | 2003         | 2008           | PhD                     | Southampton University, CEH, AGU, ORS  |
+| International River Restoration Survey   | Past Projects | 2003         | 2005           | PhD                     | Unfunded                               |
+| Pool-Riffle Maintenance Mechanisms       | Past Projects | 2003         | 2006           | Co-P.I.                 | Unfunded                               |
+| Ecohydraulics &amp; Habitat Heterogeneity | Past Projects | 2002         | 2003           | Masters                 | EBMUD, CALFED                          |
+| Spawning Habitat Integrated Rehabilitation Approach (SHIRA) | Past Projects | 2001         | 2006           | Masters                 | EBMUD, Calfed                          |
 
-| [Extending GCD Software](http://www.joewheaton.org/Home/research/software/GCD/extending-dod-software) | Active        | 2009 | On Going | P.I.                    | ICRRR, USGS (GCMRC)                    |
-| ---------------------------------------- | ------------- | ---- | -------- | ----------------------- | -------------------------------------- |
-| [MORPHED](http://www.joewheaton.org/a/joewheaton.org/www/Home/research/software/morphed) | Active        | 2004 | On Going | P.I.                    | NSF                                    |
-| [Morphological Sediment Budgeting](http://www.joewheaton.org/Home/research/projects-1/morphological-sediment-budgeting) | Active        | 2003 | 2008     | PhD                     | Southampton University, CEH, AGU, ORS  |
-| [Comparison of Traditional Versus Ground-based LiDaR In-stream Habitat Assessments](http://www.joewheaton.org/Home/research/unlisted-projects/comparison-of-traditional-versus-ground-based-lidar-in-stream-habitat-assessments) | Completed     | 2009 | 2010     | P.I.                    | USFS                                   |
-| [Green LiDaR DEM Uncertainty](http://www.joewheaton.org/a/joewheaton.org/www/Home/research/projects-1/morphological-sediment-budgeting/green-lidar-dem-uncertainty) | Inactive      | 2008 | On Going | Collaborator (Unfunded) | Eco Logical Research, NOAA, & Unfunded |
-| [ReesScan: Hyperscale Modeling of the River Rees](http://www.reesscan.org/Home) | Past Projects | 2009 | 2012     | Collaborator (Unfunded) | NERC                                   |
-| [Water Resources in a Changing Climate](http://www.idahoclimatechange.org/) | Past Projects | 2008 | 2009     | Collaborator (Unfunded) | NSF                                    |
-| [Uncertainties in River Restoration](http://www.joewheaton.org/Home/research/projects-1/past-projects/uncertainties-in-river-restoration) | Past Projects | 2003 | 2008     | PhD                     | Southampton University, CEH, AGU, ORS  |
-| [International River Restoration Survey](http://www.joewheaton.org/Home/research/projects-1/past-projects/international-river-restoration-survey) | Past Projects | 2003 | 2005     | PhD                     | Unfunded                               |
-| [Pool-Riffle Maintenance Mechanisms](http://www.joewheaton.org/Home/research/projects-1/past-projects/pool-riffle-maintenance-mechanisms) | Past Projects | 2003 | 2006     | Co-P.I.                 | Unfunded                               |
-| [Ecohydraulics & Habitat Heterogeneity](http://www.joewheaton.org/Home/research/projects-1/past-projects/ecohydraulics-habitat-heterogeneity) | Past Projects | 2002 | 2003     | Masters                 | EBMUD, CALFED                          |
-| [Spawning Habitat Integrated Rehabilitation Approach (SHIRA)](http://www.joewheaton.org/Home/research/projects-1/past-projects/spawning-habitat-integrated-rehabilitation-approach-shira-) | Past Projects | 2001 | 2006     | Masters                 | EBMUD, Calfed                          |
