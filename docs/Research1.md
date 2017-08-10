@@ -1,4 +1,4 @@
-[![customLogo](C:\Users\A00805535\Documents\GitHub\joewheaton.org\docs\assets\images\customLogo.png)]({{ site.baseurl }})
+[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 ### Research
 
