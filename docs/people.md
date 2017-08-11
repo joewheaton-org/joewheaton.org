@@ -1,5 +1,5 @@
 ---
-Title
+title: Your Title
 ---
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
