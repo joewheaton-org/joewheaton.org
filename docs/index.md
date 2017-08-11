@@ -19,4 +19,8 @@ Joe
 * [Projects]({{ site.baseurl }}/research/projects-1)
 * [Publications]({{ site.baseurl }}/research/publications)
 * [People]({{ site.baseurl }}/people)
-* ​
+
+[**Students & Teaching**]({{ site.baseurl }}/Students&Teaching)
+
+* [Graduate Students]({{ site.baseurl }}/students-teaching/GraduateStudents)
+
