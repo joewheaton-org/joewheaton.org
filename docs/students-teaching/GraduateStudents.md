@@ -1,5 +1,5 @@
 ---
-title: Your Title
+title: Graduate Students
 ---
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
@@ -16,7 +16,7 @@ If you are interested in potentially working with me at [Utah State University](
 
 ## Current Graduate Students:
 
-See my [current graduate students page](http://www.joewheaton.org/Home/students-teaching/graduate-students/current-graduate-students) for a list of students I am supervising and graduate committees I am serving on.
+See my [current graduate students page]({{ site.baseurl }}/students-teaching/graduate-students/current-graduate-students) for a list of students I am supervising and graduate committees I am serving on.
 
 [![sci]({{ site.baseurl }}/assets/images/sci.jpg)]({{ site.baseurl }}/assets/images/hr/sci.jpg)
 
