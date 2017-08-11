@@ -23,4 +23,5 @@ Joe
 [**Students & Teaching**]({{ site.baseurl }}/Students&Teaching)
 
 * [Graduate Students]({{ site.baseurl }}/students-teaching/GraduateStudents)
+* [Prospective Students]({{ site.baseurl }}/students-teaching/graduate-students/information-for-prospective-graduate-students)
 
