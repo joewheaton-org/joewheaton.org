@@ -1,3 +1,9 @@
+---
+title: Projects
+---
+
+
+
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
 [Home]({{ site.baseurl }})‎ > ‎[Research]({{ site.baseurl }}/Research1)‎ > ‎
