@@ -24,7 +24,7 @@ This column gives an overview of my research interests, whereas the menu boxes t
 
 ## Research Themes:
 
-My research is driven by a basic curiosity about how natural and disturbed river systems work. Much of the work I have done has had a very methodological focus, as I believe we have rapidly moved from a fundamentally 'data-poor' situation to a 'data-rich' environment. Although, increasingly we *can* acquire impressive datasets to capture snapshots of the environment and measure the processes that shape it, we do not yet have the tools to use this extra information intelligently. Underlying the development of better tools is but also a basic question about whether or not all this new information can actually help us better understand these systems. Thus, the [projects](http://www.joewheaton.org/Home/research/projects-1) that I work on cover a mix of blue-skies and applied themes:
+My research is driven by a basic curiosity about how natural and disturbed river systems work. Much of the work I have done has had a very methodological focus, as I believe we have rapidly moved from a fundamentally 'data-poor' situation to a 'data-rich' environment. Although, increasingly we *can* acquire impressive datasets to capture snapshots of the environment and measure the processes that shape it, we do not yet have the tools to use this extra information intelligently. Underlying the development of better tools is but also a basic question about whether or not all this new information can actually help us better understand these systems. Thus, the [projects](http://www.joewheaton.org/Home/research/Projects) that I work on cover a mix of blue-skies and applied themes:
 
 ![fluvialSidebar]({{ site.baseurl }}/assets/images/fluvialSidebar.png)
 
