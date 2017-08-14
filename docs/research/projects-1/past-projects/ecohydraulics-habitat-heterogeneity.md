@@ -6,7 +6,7 @@ title: Ecohydraulics & Habitat Heterogeneity
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
-[Home]({{ site.baseurl }})‎ > ‎[Research]({{ site.baseurl }}/Research1)‎ > ‎[Projects]({{ site.baseurl }}/research/Projects) > [Past Projects]({{ site.baseurl }}/research/projects-1/past-projects)
+[Home]({{ site.baseurl }})‎ > ‎[Research]({{ site.baseurl }}/Research1)‎ > ‎[Projects]({{ site.baseurl }}/research/Projects) > [Past Projects]({{ site.baseurl }}/research/projects-1/Past-Projects)
 
 ### Ecohydraulics & Habitat Heterogeneity
 
