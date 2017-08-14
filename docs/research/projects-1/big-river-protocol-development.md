@@ -2,6 +2,8 @@
 title: Big River Protocol Development
 ---
 
+[![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
+
 [Home]({{ site.baseurl }})‎ > ‎[Research]({{ site.baseurl }}/Research1)‎ > ‎[Projects]({{ site.baseurl }}/Projects)
 
 ### Big River Protocol Development
@@ -55,7 +57,7 @@ Some Deer Lodge Panoramic Photos Post 2011 Flood
 - Manners RB, Schmidt J and Wheaton JM. In Revision. Multi-scalar model for the determination of spatially explicit riparian vegetation roughness. Journal of Geophysical Research - Earth Surface.
 - Scott ML, Perkins DL and Wheaton J. 2012. [Final Report: Big River Protocol Development – A Prototype Warranty Project](http://www.gis.usu.edu/~jwheaton/et_al/Reports/Big_Rivers_Final_Report_2012.pdf), USGS, Fort Colins, CO, 198 pp.
 
- 
+
 
 NPS2010-ClimateChangeProposalUSU.kmz (6k) Joseph Wheaton Jan 20, 2010, 6:34 PM
 
