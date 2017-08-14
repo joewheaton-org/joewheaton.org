@@ -19,7 +19,7 @@ Below is a partial list of research projects I was involved in prior to arriving
 - [Big River Protocol Development]({{ site.baseurl }}/research/projects-1/big-river-protocol-development)
 - [Improving Monitoring Protocols for Watersheds in the Columbia Basin]({{ site.baseurl }}research/projects-1/improving-monitoring-protocols-for-watersheds-in-the-columbia-basin)
 - [Morphological Sediment Budgeting]({{ site.baseurl }}research/projects-1/morphological-sediment-budgeting)
-- [Past Projects]({{ site.baseurl }}research/projects-1/past-projects)
+- [Past Projects]({{ site.baseurl }}research/projects-1/Past-Projects)
 
 ### Research Projects Prior to USU:
 
