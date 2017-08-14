@@ -1,5 +1,5 @@
 ---
-title: Big River Protocol Development
+title: Improving Monitoring Protocols for Watersheds in the Columbia Basin
 ---
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
