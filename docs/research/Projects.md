@@ -10,7 +10,7 @@ Below is a partial list of research projects I was involved in prior to arriving
 
 #### Legacy and Past Research Project Pages
 
-- [Big River Protocol Development]({{ site.baseurl }}research/projects-1/big-river-protocol-development)
+- [Big River Protocol Development]({{ site.baseurl }}/research/projects-1/big-river-protocol-development)
 - [Improving Monitoring Protocols for Watersheds in the Columbia Basin]({{ site.baseurl }}research/projects-1/improving-monitoring-protocols-for-watersheds-in-the-columbia-basin)
 - [Morphological Sediment Budgeting]({{ site.baseurl }}research/projects-1/morphological-sediment-budgeting)
 - [Past Projects](http://www.joewheaton.org/Home/research/projects-1/past-projects)
