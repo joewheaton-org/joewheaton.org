@@ -1,5 +1,5 @@
 ---
-title: Your Title
+title: Graduate Students Past & Present
 ---
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
