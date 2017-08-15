@@ -37,7 +37,7 @@ Our classroom for the [Working with Beaver in Restoration Design Workshop](http:
 #### Teaching Pages
 
 - Graduate Students
-  - [Graduate Students Past & Present](http://www.joewheaton.org/Home/students-teaching/graduate-students/current-graduate-students)
+  - [Graduate Students Past & Present]({{ site.baseurl }}/students-teaching/graduate-students/current-graduate-students)
   - [Information for Prospective Graduate Students](http://www.joewheaton.org/Home/students-teaching/graduate-students/information-for-prospective-graduate-students)
 - Teaching - Courses & Workshops
   - [Some Albums of Teaching & Field Trips](http://www.joewheaton.org/Home/students-teaching/courses/some-albums-of-teaching-field-trips)
