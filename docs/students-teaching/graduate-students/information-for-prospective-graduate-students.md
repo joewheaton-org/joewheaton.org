@@ -115,7 +115,7 @@ Logan is a great place to live and if you are into outdoor sports the mountains 
 - [Stokes Nature Center](http://www.logannature.org/)
 - [Cache Valley Gardeners' Market](http://gardenersmarket.org)
 
-Don't just take my word for it. Ask [existing graduate students](http://www.google.com/url?q=http%3A%2F%2Fwww.cnr.usu.edu%2Fwats%2Fhtm%2Fgraduate-program%2Fgraduate-student-webages&sa=D&sntz=1&usg=AFrqEzehAkh7iNt2JWlmsxus-NxQ4bv43Q)what they think of Logan and their program. 
+Don't just take my word for it. Ask [existing graduate students](http://www.google.com/url?q=http%3A%2F%2Fwww.cnr.usu.edu%2Fwats%2Fhtm%2Fgraduate-program%2Fgraduate-student-webages&sa=D&sntz=1&usg=AFrqEzehAkh7iNt2JWlmsxus-NxQ4bv43Q) what they think of Logan and their program. 
 
 #### NOTE
 
