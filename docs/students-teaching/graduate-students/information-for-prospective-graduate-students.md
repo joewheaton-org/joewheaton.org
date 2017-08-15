@@ -97,7 +97,7 @@ Depending on your research interests, you may find helpful colleagues and collab
 
 ### Living, Working & Playing in Logan
 
-Logan is a great place to live and if you are into outdoor sports the mountains are hard to beat. On your doorstep are not only some fantastic field-work opportunities and potential study sites, but also a great playground for outdoor pursuits. This can be quite an important counter balance to your research and education. If you're scoping out places to live and trying to figure out neighborhoods, you may find [this neighborhood map helpful](http://www.joewheaton.org/Home/students-teaching/graduate-students/information-for-prospective-graduate-students/logan-neighborhoods).
+Logan is a great place to live and if you are into outdoor sports the mountains are hard to beat. On your doorstep are not only some fantastic field-work opportunities and potential study sites, but also a great playground for outdoor pursuits. This can be quite an important counter balance to your research and education. If you're scoping out places to live and trying to figure out neighborhoods, you may find [this neighborhood map helpful]({{ site.baseurl}}/students-teaching/graduate-students/logan-neighborhoods).
 
 **Some helpful links:**
 
