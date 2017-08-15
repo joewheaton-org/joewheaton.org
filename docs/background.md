@@ -55,7 +55,7 @@ title: Background
 
 ## Other Pages:
 
-- [WATS Profile](http://www.cnr.usu.edu/wats/htm/directory-plugin/memberID=2549)
+- [WATS Profile](https://qcnr.usu.edu/directory/wheaton_joseph)
 - [ICRRR Profile](http://www.cnr.usu.edu/icrrr/htm/faculty-and-staff/)
 - [Ecology Center Profile](http://www.usu.edu/ecology/htm/faculty/memberID=3887)
 - [Water Initiative at USU Profile](http://water.usu.edu/)
