@@ -42,8 +42,5 @@ Our classroom for the [Working with Beaver in Restoration Design Workshop](http:
 - Teaching - Courses & Workshops
   - [Some Albums of Teaching & Field Trips](http://www.joewheaton.org/Home/students-teaching/courses/some-albums-of-teaching-field-trips)
   - [Workshop Websites](http://www.joewheaton.org/Home/students-teaching/courses/workshop-websites)
-- Teaching Materials
-  - [GIS Help](http://www.joewheaton.org/Home/students-teaching/teaching-materials/gis-help)
-  - [Writing & Citing Tools](http://www.joewheaton.org/Home/students-teaching/teaching-materials/writing-citing-tools)
 - Undergraduate Advising
   - [GIS Minor](http://www.joewheaton.org/Home/students-teaching/undergraduate-advising/gis-minor)
