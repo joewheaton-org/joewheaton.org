@@ -12,7 +12,8 @@ Enjoy,
 
 Joe 
 
-
+* [People]({{ site.baseurl }}/people)
+* [Service]({{ site.baseurl }}/service)
 
 [**Research**]({{ site.baseurl }}/Research1)
 
@@ -21,10 +22,14 @@ Joe
 
 * [Projects]({{ site.baseurl }}/research/Projects)
 * [Publications]({{ site.baseurl }}/research/publications)
-* [People]({{ site.baseurl }}/people)
+
+  ​
 
 [**Students & Teaching**]({{ site.baseurl }}/Students&Teaching)
 
 * [Graduate Students]({{ site.baseurl }}/students-teaching/GraduateStudents)
 * [Prospective Students]({{ site.baseurl }}/students-teaching/graduate-students/information-for-prospective-graduate-students)
+
+
+[Contact]({{ site.baseurl }}/contact)
 
