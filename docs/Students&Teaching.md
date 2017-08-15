@@ -1,5 +1,5 @@
 ---
-title: Your Title
+title: Students & Teaching
 ---
 
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
