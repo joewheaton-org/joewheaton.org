@@ -144,5 +144,5 @@ This work started in 2004 as a collaboration between [Dr. James Brasington](http
 - Wechsler, S.P., 2003. [Perceptions of Digital Elevation Model Uncertainty by DEM Users](http://www.urisa.org/Journal/Vol15No2/Wechsler.pdf). URISA Journal, 15(2): 57-64.
 - Wechsler, S.P., 2000. Effect of DEM Uncertainty on Topographic Parameters, DEM Scale and Terrain Evaluation, State University of New York, Syracuse, New York, 380 pp.
 
-Subpages (2): [Green LiDaR DoD Uncertainty Project](http://www.joewheaton.org/Home/research/projects-1/morphological-sediment-budgeting/green-lidar-dem-uncertainty) [PhD Thesis](http://www.joewheaton.org/Home/research/projects-1/phdthesis)
+Subpages (2): [Green LiDaR DoD Uncertainty Project]({{ site.baseurl }}/research/projects-1/green-lidar-dem-uncertainty) [PhD Thesis]({{ site.baseurl }}/research/projects-1/phdthesis)
 
