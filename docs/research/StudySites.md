@@ -1,6 +1,10 @@
+---
+title: Study Sites
+---
+
 [![customLogo]({{ site.baseurl }}/assets/images/customLogo.png)]({{ site.baseurl }})
 
-[Home]({{ site.baseurl }})‎ > ‎[Research]({{ site.baseurl }}/Research1)‎ > ‎
+[Home]({{ site.baseurl }})‎ > ‎[Research]({{ site.baseurl }}/Research1)‎ >
 
 ### Study Sites
 
@@ -10,8 +14,6 @@
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1PMhnh6weK3O58uf4IdFwLzOWwXE&hl=en" width="640" height="480"></iframe>
 
-
-
 | Study Site           | Location               | Country | Year Started Studying | Status   |
 | -------------------- | ---------------------- | ------- | --------------------- | -------- |
 | Green & Yampa Rivers | Dinosaur National Park | USA     | 2009                  | Ongoing  |
@@ -20,7 +22,4 @@
 | River Feshie         | Highlands, Scotland    | UK      | 2003                  | Ongoing  |
 | Mokelumne River      | near Lodi, CA          | USA     | 2001                  | Previous |
 
-
-
-Subpages (2): [Bridge Creek](http://www.joewheaton.org/Home/research/study-sites/bridge-creek) [River Feshie](http://www.joewheaton.org/Home/research/study-sites/river-feshie)
-
+Subpages (2): [Bridge Creek]({{ site.baseurl }}/research/study-sites/bridge-creek) [River Feshie]({{ site.baseurl }}/research/study-sites/river-feshie)
