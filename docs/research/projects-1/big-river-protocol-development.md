@@ -48,8 +48,6 @@ Dusty Perkins (National Park Service)
 [Rebecca Manners](http://www.cnr.usu.edu/htm/graddirectory/memberID=2040) (Utah State University)
 [Jack Scmidtt](http://www.cnr.usu.edu/wats/htm/directory-plugin/memberID=827) (Utah State University)
 
-Some Deer Lodge Panoramic Photos Post 2011 Flood
-
 
 
 ### Outputs of this Research:
