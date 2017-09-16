@@ -10,7 +10,7 @@ title: Projects
 
 ### Projects
 
-Since I've been at Utah State University, I've run all my research projects through my [Ecogeomorphology & Topographic Analysis Lab](http://etal.joewheaton.org/). See [here](http://etal.joewheaton.org/projects) for a listing of [current](http://etal.joewheaton.org/projects/current-projects) and [past](http://etal.joewheaton.org/projects/past-projects) ET-AL projects. 
+Since I've been at Utah State University, I've run all my research projects through my [Ecogeomorphology & Topographic Analysis Lab](https://joewheaton-org.github.io/etal/). See [here](https://joewheaton-org.github.io/etal/projects) for a listing of [current](https://joewheaton-org.github.io/etal/projects/current-projects) and [past](https://joewheaton-org.github.io/etal/projects/past-projects) ET-AL projects. 
 
 Below is a partial list of research projects I was involved in prior to arriving at Utah State University. Refer to [Study Sites](http://www.joewheaton.org/Home/research/study-sites) to see which rivers these projects have been on.
 

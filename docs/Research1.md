@@ -10,15 +10,15 @@ title: Research
 
 ## Introduction
 
-My main interests are in fluvial geomorphology and ecohydraulics with a particular focus on linking the two (ecogeomorphology). I have strong applied interests in the restoration and the management of watersheds and their rivers and have worked extensively at the interface between environmental policy, practice and science. I strive to find practical outlets for much of my research and in particular take the technological and methodological developments we work on and package them into tools and frameworks of use to both practitioners and researchers. Some of the hot applied topics my lab ([ET-AL](http://etal.joewheaton.org/)) has been working on lately include:
+My main interests are in fluvial geomorphology and ecohydraulics with a particular focus on linking the two (ecogeomorphology). I have strong applied interests in the restoration and the management of watersheds and their rivers and have worked extensively at the interface between environmental policy, practice and science. I strive to find practical outlets for much of my research and in particular take the technological and methodological developments we work on and package them into tools and frameworks of use to both practitioners and researchers. Some of the hot applied topics my lab ([ET-AL](https://joewheaton-org.github.io/etal/)) has been working on lately include:
 
 - Developing 'cheap and cheerful' restoration and monitoring approaches
 - Using **beaver as a restoration tool** (see [http://brat.riverscapes.xyz](http://brat.riverscapes.xyz/) and [http://beaver.joewheaton.org](http://beaver.joewheaton.org/))
 - Using HDLWD (high density large woody debris) to restore dynamic, self-sustaining, complex habitats to recover Steehead (see [Asotin Poster](http://etal.usu.edu/Downloads/Posters/Asotin_flattened.png)).
-- Developing multi-scalar monitoring protocols (see [CHaMP ](http://champmonitoring.org/)and [Big Rivers Monitoring Protocol](http://etal.joewheaton.org/projects/past-projects/Big-Rivers-Protocol))
-- Pioneering new analytical tools to help the community deal with a new era of big data (see: [GCD](http://gcd.joewheaton.org/), [ZCloud Tools](http://etal.joewheaton.org/projects/current-projects/development-of-integrated-airborne-and-ground-based-lidar-tools-for-earth-sciences), [MBES Tools](http://mbes.joewheaton.org/), [BRAT](http://brat.riverscapes.xyz/))
+- Developing multi-scalar monitoring protocols (see [CHaMP ](http://champmonitoring.org/)and [Big Rivers Monitoring Protocol](https://joewheaton-org.github.io/etal/projects/past-projects/Big-Rivers-Protocol))
+- Pioneering new analytical tools to help the community deal with a new era of big data (see: [GCD](http://gcd.joewheaton.org/), [ZCloud Tools](https://joewheaton-org.github.io/etal/projects/current-projects/development-of-integrated-airborne-and-ground-based-lidar-tools-for-earth-sciences), [MBES Tools](http://mbes.joewheaton.org/), [BRAT](http://brat.riverscapes.xyz/))
 
-This column gives an overview of my research interests, whereas the menu boxes to the right provide direct links to specific projects, study sites and/or tools. You can find my [publications here](http://www.joewheaton.org/Home/research/publications).  Recent lab publications are announced [here](http://etal.joewheaton.org/et-al-news/new-fhc-et-al-or-elr-publications).
+This column gives an overview of my research interests, whereas the menu boxes to the right provide direct links to specific projects, study sites and/or tools. You can find my [publications here](http://www.joewheaton.org/Home/research/publications).  Recent lab publications are announced [here](https://joewheaton-org.github.io/etal/et-al-news/new-fhc-et-al-or-elr-publications).
 
 [![badge_sm]({{ site.baseurl }}/assets/images/badge_sm.gif)](http://www.researcherid.com/rid/F-1965-2010)
 
@@ -59,7 +59,7 @@ My research strategy is simple. Work hard. Do good work transparently so others 
 - [Morphological Sediment Budgeting](http://www.joewheaton.org/Home/research/projects-1/morphological-sediment-budgeting)
 - [Past Projects](http://www.joewheaton.org/Home/research/projects-1/past-projects)
 
-For more information on research projects from ETAL, see [here](http://etal.joewheaton.org/projects).
+For more information on research projects from ETAL, see [here](https://joewheaton-org.github.io/etal/projects).
 
 
 

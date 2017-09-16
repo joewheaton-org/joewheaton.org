@@ -10,7 +10,7 @@ title: © 2013 & Disclaimer
 
 ET-AL Lab Site by [Wheaton et al. (2009-2013)](http://www.joewheaton.org/etal.joewheaton.org) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).
 
-In short, anyone, anywhere is allowed to reuse and re-purpose any of the content I produced on this website, so long as any public use of that content is shared in the same way, it is used for non-commercial purposes (I doubt you'll get rich off anything here anyway), and you provide an appropriate citation (e.g. fill out [etal.joewheaton.org](http://etal.joewheaton.org/) under source work URL in your own CreativeCommons license). Note: some copyrighted content is also referenced or shown on this website and that content can only be reused in accordance with whomever I have cited that owns that copyright. 
+In short, anyone, anywhere is allowed to reuse and re-purpose any of the content I produced on this website, so long as any public use of that content is shared in the same way, it is used for non-commercial purposes (I doubt you'll get rich off anything here anyway), and you provide an appropriate citation (e.g. fill out [etal.joewheaton.org](https://joewheaton-org.github.io/etal/) under source work URL in your own CreativeCommons license). Note: some copyrighted content is also referenced or shown on this website and that content can only be reused in accordance with whomever I have cited that owns that copyright. 
 
 ### General Disclaimer 
 

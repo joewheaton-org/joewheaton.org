@@ -8,7 +8,7 @@ title: Graduate Students Past & Present
 
 ### Graduate Students Past & Present
 
-See the [ET-AL People - Graduate Student Pages](http://etal.joewheaton.org/people/students) for a complete list of my [current](http://etal.joewheaton.org/people/students) and [past](http://etal.joewheaton.org/people/where-are-they-now/former-graduate-students) primary advisees.
+See the [ET-AL People - Graduate Student Pages](https://joewheaton-org.github.io/etal/people/students) for a complete list of my [current](https://joewheaton-org.github.io/etal/people/students) and [past](https://joewheaton-org.github.io/etal/people/where-are-they-now/former-graduate-students) primary advisees.
 
 Below is a list of the graduate students I have had the privilege of working with:
 
