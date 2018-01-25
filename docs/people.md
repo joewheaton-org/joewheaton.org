@@ -10,6 +10,10 @@ title: People
 
 I have had the privilege of working with some outstanding colleagues, collaborators and students over the years. Here I only attempt to list *some* of those I've collaborated most closely or directly with on specific [projects]({{ site.baseurl }}/research/projects-1) (i.e. forgive me for omissions...).
 
+
+
+Maybe I should add [James Brasington](http://james.com) here.
+
 Alternatively, see specific [project pages]({{ site.baseurl }}/research/projects-1) and [study sites]({{ site.baseurl }}/research/study-sites) for list of collaborators by project, [graduate student]({{ site.baseurl }}/students-teaching/graduate-students/current-graduate-students) pages for list of current students, and [et al. Lab](https://joewheaton-org.github.io/etal/) for lab members. ![93393pw150]({{ site.baseurl }}/assets/images/93393pw150.jpg)
 
 | Salutation | First Name | Last Name  | Title                                    | Relationship                        | Web Page                                 | Primary Project                          | Affiliation                              |
